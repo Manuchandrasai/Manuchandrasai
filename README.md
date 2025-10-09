@@ -1,83 +1,109 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manuchandrasai.manuchandrasai">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Manuchandrasai.Manuchandrasai">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rayudu+Manu+Chandra+Sai;Welcome+to+my+GitHub!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rayudu+Manu+Chandra+Sai;Frontend+%7C+Full-stack+%7C+ML+Dev;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://linkedin.com/in/manu-chandra-sai" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"> HackerRank</a></code>
-  <code><a href="https://www.leetcode.com/manuchandrasai" title="LeetCode Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"> LeetCode</a></code>
-  <code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram</a></code>
-</h5>
-<br>
+<h4 align="center">
+  <a href="https://linkedin.com/in/manu-chandra-sai" title="LinkedIn Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">&nbsp;LinkedIn
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.hackerrank.com/" title="HackerRank Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg">&nbsp;HackerRank
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://leetcode.com/manuchandrasai" title="LeetCode Profile">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg">&nbsp;LeetCode
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://instagram.com/" title="Instagram">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">&nbsp;Instagram
+  </a>
+</h4>
+
 <p align="center">
-  Hi, I'm Rayudu Manu Chandra Sai, Computer Science Student & Full-Stack Developer from India
-  <br>
-  <br>
-  👨‍🎓 Currently studying at KL University, Guntur, Computer Science
-  <br>
-  💻 I love building web/mobile apps and learning new tech
-  <br>
-  🤖 My focus: Full-stack, ML, React Native, and cool deployments!
-  <br>
-  🌱 Currently learning AI, ML, and advanced deployment
-  <br>
-  💬 Ask me about React, Node, Machine Learning, or Full-stack projects
-  <br>
+  Hi, I'm <b>Rayudu Manu Chandra Sai</b>, Computer Science Student &amp; Full-Stack Developer from India.<br>
+  👨‍🎓 Currently studying at KL University, Guntur, Computer Science.<br>
+  💻 I love building web/mobile apps and learning new tech.<br>
+  🤖 My focus: Full-stack, ML, React Native, and cool deployments!<br>
+  🌱 Currently learning AI, ML, and advanced deployment.<br>
+  💬 Ask me about React, Node, Machine Learning, or Full-stack projects.<br>
   📫 How to reach me: <a href="mailto:manuchandrasairayudu@gmail.com">manuchandrasairayudu@gmail.com</a>
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
+
 <p align="center">
-  <img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img title="Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img title="NodeJS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img title="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img title="Tailwind CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img title="AWS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img title="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img title="Django" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img title="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img title="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img title="Firebase" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img title="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img title="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img title="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </p>
+
 <hr>
-
 <h2 align="center">⚡ GitHub Stats & Activity ⚡</h2>
-<br>
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Source">
-    <img align="center" width=390 src="https://streak-stats.demolab.com/?user=manuchandrasai&theme=react&border=61dafb&hide_border=true" alt="manuchandrasai" />
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=manuchandrasai&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+
+<p align="center">
+  <img width="420" src="https://streak-stats.demolab.com/?user=Manuchandrasai&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Manuchandrasai&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
   <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuchandrasai&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-  </a>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuchandrasai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchandrasai&langs_count=8&theme=react&border_color=61dafb&hide_border=true&layout=compact"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuchandrasai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<!-- Optionally, you can showcase specific repositories in a similar style as the example, if you wish -->
+<hr>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Manuchandrasai/Hotel-management-system" title="Hotel-management-system">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Hotel-management-system&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Manuchandrasai/Task-manager" title="Task-manager">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Task-manager&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Manuchandrasai/Building-an-RAG-App-with-Groq-and-LlamaIndex" title="Building-an-RAG-App-with-Groq-and-LlamaIndex">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Building-an-RAG-App-with-Groq-and-LlamaIndex&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Manuchandrasai/Recruiter-Onboarding-login-page" title="Recruiter-Onboarding-login-page">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Recruiter-Onboarding-login-page&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Manuchandrasai/Calculator" title="Calculator">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Calculator&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Manuchandrasai/My-Portfolio" title="My-Portfolio">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=My-Portfolio&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 ---
 
 <!--
-**manuchandrasai/manuchandrasai** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**Manuchandrasai/Manuchandrasai** is a special repository because its `README.md` appears on your GitHub profile.
 
-Tips:
 - Update social/profile links as needed.
 - Make sure your username and image URLs are correct.
-- For more badges/icons, see https://devicon.dev/
 -->
-
