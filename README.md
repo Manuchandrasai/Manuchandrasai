@@ -2,37 +2,22 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rayudu+Manu+Chandra+Sai;Frontend+%7C+Full-stack+%7C+ML+Dev;Welcome+to+my+GitHub!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Manu+Chandra+Sai;Full-stack+%7C+ML+Dev;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
-
+<div align="center" width="50">
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+  
 <h4 align="center">
   <a href="https://linkedin.com/in/manu-chandra-sai" title="LinkedIn Profile">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">&nbsp;LinkedIn
   </a>
   &nbsp;|&nbsp;
-  <a href="https://www.hackerrank.com/" title="HackerRank Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg">&nbsp;HackerRank
-  </a>
-  &nbsp;|&nbsp;
   <a href="https://leetcode.com/manuchandrasai" title="LeetCode Profile">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg">&nbsp;LeetCode
   </a>
-  &nbsp;|&nbsp;
-  <a href="https://instagram.com/" title="Instagram">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg">&nbsp;Instagram
-  </a>
+  &nbsp;
 </h4>
-
-<p align="center">
-  Hi, I'm <b>Rayudu Manu Chandra Sai</b>, Computer Science Student &amp; Full-Stack Developer from India.<br>
-  👨‍🎓 Currently studying at KL University, Guntur, Computer Science.<br>
-  💻 I love building web/mobile apps and learning new tech.<br>
-  🤖 My focus: Full-stack, ML, React Native, and cool deployments!<br>
-  🌱 Currently learning AI, ML, and advanced deployment.<br>
-  💬 Ask me about React, Node, Machine Learning, or Full-stack projects.<br>
-  📫 How to reach me: <a href="mailto:manuchandrasairayudu@gmail.com">manuchandrasairayudu@gmail.com</a>
-</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
@@ -48,16 +33,30 @@
   <img title="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img title="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img title="Firebase" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img title="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img title="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img title="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img title="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </p>
 
+
 <hr>
+
+
+<p align="left">
+  -  Hi, I'm <b>Rayudu Manu Chandra Sai</b>, Computer Science Student &amp; Full-Stack Developer from India.<br><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+  - 💻 I love building web/mobile apps and learning new tech.<br>   
+  - 🤖 My focus: Full-stack, ML, React Native, and cool deployments!<br>
+  - 🌱 Currently learning AI, ML, and advanced deployment.<br>
+  - 💬 Ask me about React, Node, Machine Learning, or Full-stack projects.<br>
+  - 📫 How to reach me: <a href="mailto:manuchandrasairayudu@gmail.com">manuchandrasairayudu@gmail.com</a>
+  
+</p>
+
+
+
 <h2 align="center">⚡ GitHub Stats & Activity ⚡</h2>
+
 
 <p align="center">
   <img width="420" src="https://streak-stats.demolab.com/?user=Manuchandrasai&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
