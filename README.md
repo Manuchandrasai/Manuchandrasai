@@ -1,65 +1,45 @@
-<!-- Center intro with waving animation -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rayudu Manu Chandra Sai!</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from India</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<!-- GitHub Stats Cards -->
+###
+
+<!-- Tech stack icons -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manuchandrasai&theme=algolia&margin-w=10&column=7" alt="Trophies" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=manuchandrasai&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuchandrasai&theme=tokyonight" alt="Streak stats" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manuchandrasai&theme=chartreuse-dark" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="csharp logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"/>
+  <img width="12"/>
 </div>
 
----
+###
 
-- 🔭 Currently working on: [Black Bucks](https://taptap.blackbucks.me/login/?lessonPlanId=66018&testType=lessonPlan)
-- 🌱 Currently learning: **AI**
-- 👨‍💻 All projects: [Portfolio](https://my-portfolio-five-liard-ajqkiwk9m5.vercel.app/)
-- 💬 Ask me about: **React, AI & ML stuff**
-- 📫 Email: **manuchandrasairayudu@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1T79y_inj3iZ55P6i0BTSRn_4RU5yQfVV/view?usp=drivesdk)
-- ⚡ Fun fact: *Debugging is like being the detective in a crime movie where you’re also the murderer!*
-
----
-
-<!-- Social Badges -->
-<h3 align="center">🚀 Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/manu96939569232"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/manu-chandra-sai"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/manusai"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://fb.com/manu.king.585"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/manu_chandra_3"><img src="https://img.shields.io/badge/-Codechef-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
-  <a href="https://leetcode.com/manuchandrasai"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <!-- Add your other favorite tech stacks here -->
-</p>
+<!-- Social badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/manu-chandra-sai">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+  <a href="https://twitter.com/manu96939569232">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
+  </a>
+  <a href="httpsHere is a custom GitHub profile README with an animated and modern look, tailored for your profile and tech stack. Just replace the username parts (“manuchandrasai”) and your social media/profile links as required.
 
 ---
 
-<!-- Custom Contribution Graph (example) -->
-<h3 align="center">💻 My Contribution Graph</h3>
-<p align="center">
-  <img src="https://github.com/manuchandrasai/manuchandrasai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<!-- Animated Avatar (Optional Example—Upload your own image to GitHub) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" width="120" style="border-radius: 50%; border: 4px solid #ff77aa" />
-</p>
