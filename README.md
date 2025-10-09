@@ -60,8 +60,6 @@
 
 <p align="center">
   <img width="420" src="https://streak-stats.demolab.com/?user=Manuchandrasai&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Manuchandrasai&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
-  <br/><br/>
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchandrasai&langs_count=8&theme=react&border_color=61dafb&hide_border=true&layout=compact"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuchandrasai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
