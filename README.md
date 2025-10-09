@@ -1,45 +1,63 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="left">Hi 👋! My name is Rayudu Manu Chandra Sai, and I'm a passionate frontend developer from India.</h2>
 
 ###
 
-<!-- Tech stack icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="csharp logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"/>
-  <img width="12"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manuchandrasai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuchandrasai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<!-- Social badges -->
-<div align="center">
-  <a href="https://linkedin.com/in/manu-chandra-sai">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-  <a href="https://twitter.com/manu96939569232">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
-  </a>
-  <a href="httpsHere is a custom GitHub profile README with an animated and modern look, tailored for your profile and tech stack. Just replace the username parts (“manuchandrasai”) and your social media/profile links as required.
+<!-- Use a cool, boyish avatar or an animated gif -->
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/72618739?v=4" />
 
----
+###
 
+<!-- Tech stack icons -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<!-- Social Badges -->
+<div align="left">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:manuchandrasairayudu@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/manu-chandra-sai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<!-- If you set up a snake/github actions SVG graph, use your username below! -->
+<img src="https://raw.githubusercontent.com/manuchandrasai/manuchandrasai/output/snake.svg" alt="Snake animation" />
