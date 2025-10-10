@@ -21,6 +21,17 @@
 
 
 <hr>
+
+<p align="left">
+  -  Hi, I'm <b>Rayudu Manu Chandra Sai</b>, Computer Science Student &amp; Full-Stack Developer from India.<br><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+  - 💻 I love building web/mobile apps and learning new tech.<br>   
+  - 🤖 My focus: Full-stack, ML, React Native, and cool deployments!<br>
+  - 🌱 Currently learning AI, ML, and advanced deployment.<br>
+  - 💬 Ask me about React, Node, Machine Learning, or Full-stack projects.<br>
+  - 📫 How to reach me: <a href="mailto:manuchandrasairayudu@gmail.com">manuchandrasairayudu@gmail.com</a>
+  
+</p>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <p align="center">
@@ -49,17 +60,6 @@
 </div>
 
 <hr>
-
-
-<p align="left">
-  -  Hi, I'm <b>Rayudu Manu Chandra Sai</b>, Computer Science Student &amp; Full-Stack Developer from India.<br><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-  - 💻 I love building web/mobile apps and learning new tech.<br>   
-  - 🤖 My focus: Full-stack, ML, React Native, and cool deployments!<br>
-  - 🌱 Currently learning AI, ML, and advanced deployment.<br>
-  - 💬 Ask me about React, Node, Machine Learning, or Full-stack projects.<br>
-  - 📫 How to reach me: <a href="mailto:manuchandrasairayudu@gmail.com">manuchandrasairayudu@gmail.com</a>
-  
-</p>
 
 
 
