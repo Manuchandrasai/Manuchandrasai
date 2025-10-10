@@ -19,6 +19,7 @@
   &nbsp;
 </h4>
 
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
@@ -42,6 +43,10 @@
   <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </p>
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <hr>
 
