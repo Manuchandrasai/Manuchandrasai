@@ -68,41 +68,8 @@
 
 <p align="center">
   <img width="420" src="https://streak-stats.demolab.com/?user=Manuchandrasai&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuchandrasai&langs_count=8&theme=react&border_color=61dafb&hide_border=true&layout=compact"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuchandrasai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
-<hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Manuchandrasai/Hotel-management-system" title="Hotel-management-system">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Hotel-management-system&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Manuchandrasai/Task-manager" title="Task-manager">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Task-manager&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Manuchandrasai/Building-an-RAG-App-with-Groq-and-LlamaIndex" title="Building-an-RAG-App-with-Groq-and-LlamaIndex">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Building-an-RAG-App-with-Groq-and-LlamaIndex&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Manuchandrasai/Recruiter-Onboarding-login-page" title="Recruiter-Onboarding-login-page">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Recruiter-Onboarding-login-page&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Manuchandrasai/Calculator" title="Calculator">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=Calculator&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Manuchandrasai/My-Portfolio" title="My-Portfolio">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manuchandrasai&repo=My-Portfolio&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+
 
 ---
 
